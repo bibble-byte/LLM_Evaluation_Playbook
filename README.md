@@ -16,3 +16,14 @@ This repository demonstrates my hands-on work in:
 - Real-world annotation-style examples
 
 This repository is created as part of my professional portfolio for AI data, evaluation, and also applied AI roles.
+
+## Repository Structure
+
+- annotated-samples/
+  - instruction_following.md
+  - hallucination_detection.md
+  - preference_ranking.md
+- evaluation-metrics/
+  - accuracy_metrics.md
+
+This structure mirrors real-world LLM evaluation and RLHF workflows used in production AI systems.
